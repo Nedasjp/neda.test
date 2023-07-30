@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div.git{
+    width: 600px;
+    height: 600px;
+    margin: 100px auto;
+    padding: 25px;
+background-color: lightgreen;
+}
